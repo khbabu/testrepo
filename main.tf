@@ -1,6 +1,9 @@
+# This is for v1.0.1
+
 terraform {
   required_version = ">= 1.0.0"
 }
+
 
 variable "message" {
   description = "Hello World message"

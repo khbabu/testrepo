@@ -1,4 +1,4 @@
-# This is for v1.0.1-rc1 pre-release
+# This is for v1.0.3
 
 terraform {
   required_version = ">= 1.0.0"
